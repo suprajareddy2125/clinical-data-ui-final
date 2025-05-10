@@ -72,4 +72,4 @@ matplotlib
 
 ---
 
- Supraja reddy Bathula, HI 741 — Clinical Data Warehouse Project
+Supraja reddy Bathula, HI 741 — Clinical Data Warehouse Project
