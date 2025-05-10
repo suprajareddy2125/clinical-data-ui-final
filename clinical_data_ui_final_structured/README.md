@@ -72,4 +72,4 @@ matplotlib
 
 ---
 
-© 2025 Lu He, HI 741 — Clinical Data Warehouse Project
+ Supraja reddy Bathula, HI 741 — Clinical Data Warehouse Project
